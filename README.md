@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img height="154" src="https://camo.githubusercontent.com/e7303851c1bc1c111c46cc2d4ac8a796cbe176611f201c5fe9f4fdacdc07178a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e64726577676f6c6f76616e6f76266c61796f75743d636f6d70616374267468656d653d726561637426686964653d706870266c616e67735f636f756e743d36" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrei9460&amp" style="max-width: 100%;">
+
 <!--
 **Andrei9460/Andrei9460** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img height="154" src="https://camo.githubusercontent.com/e7303851c1bc1c111c46cc2d4ac8a796cbe176611f201c5fe9f4fdacdc07178a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e64726577676f6c6f76616e6f76266c61796f75743d636f6d70616374267468656d653d726561637426686964653d706870266c616e67735f636f756e743d36" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrei9460&amp" style="max-width: 100%;">
+
 -->
